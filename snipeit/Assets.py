@@ -62,8 +62,6 @@ class Assets():
         response = r.request('GET', endpoint, headers=self.headers)
         response = response.json()
 
-        print(response.request)
-
         return response['rows']
 
     def get_asset_by_id(self, id: int):
