@@ -1,0 +1,3 @@
+# snipeit-api
+
+Temporary placeholder
