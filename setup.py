@@ -4,10 +4,10 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='snipeit-api',  
+    name='snipeit-api-controller',  
     version='0.1',
     author="Andrei Fedotov",
-    author_email="Andrei Fedotov",
+    author_email="anddfedotov@gmail.com",
     description="SnipeIT API controller",
     long_description=long_description,
     long_description_content_type="text/markdown",

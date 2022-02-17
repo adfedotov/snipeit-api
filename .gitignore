@@ -1,3 +1,6 @@
 /venv
 /__pycache__
 .pypirc
+/build
+/dist
+/snipeit_api_controller.egg-info
