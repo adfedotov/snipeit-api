@@ -1,1 +1,1 @@
-from SnipeIT import SnipeIT
+from .SnipeIT import SnipeIT
